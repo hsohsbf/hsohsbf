@@ -1,9 +1,9 @@
-### Hello!
-### I'm Hso, a student who is fond of game development.
-### I also work on some useful apps when I am bored.
-### I work with C#, C++ and Python.
-### I also want to be a Full Stack Web Developer.
-
+### 👋 Hello!
+### ☕ I'm Hso, a student who is fond of game development.
+### 🌱 I’m currently learning Java
+### 🤔 I’m looking for help with animation rigging in Unity
+### ⚡ Fun fact: I also want to learn web development
+ 
 
 
 
@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning🌱 I’m currently learning ...
 - 👯 I’m looking to coon ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
