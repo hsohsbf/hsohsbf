@@ -1,7 +1,10 @@
 ### 👋 Hello!
-* ☕ I'm Hso, a student who is fond of game development.
+* ☕ I'm Hso, a student who is fond of game development
 * 🌱 I’m currently learning Java
 * 🤔 I’m looking for help with animation rigging in Unity
+* ❤️ I love playing piano
+
+
 * ⚡ Fun fact: I also want to learn web development
  
 
